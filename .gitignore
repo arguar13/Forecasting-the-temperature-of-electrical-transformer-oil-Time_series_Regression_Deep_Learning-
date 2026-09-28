@@ -9,3 +9,6 @@ __pycache__/
 # Data downloaded at runtime / model artifacts
 ETTh1.csv
 *.pth
+
+# Blog drafts and images (not part of the project)
+blog/
