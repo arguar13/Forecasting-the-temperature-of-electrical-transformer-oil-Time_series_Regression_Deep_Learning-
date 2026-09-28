@@ -1,6 +1,11 @@
-clean_data.csv
-comparative.csv
+# Scratch notebooks
 practica.ipynb
-READ.md
-export.py
-best_hybrid_lstm_reg.pth
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+
+# Data downloaded at runtime / model artifacts
+ETTh1.csv
+*.pth
